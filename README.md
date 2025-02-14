@@ -6,7 +6,7 @@ This Solidity contract facilitates flash loan-based triangular arbitrage on the 
 
 Contract Functionality
 
-initateArbitrage
+InitateArbitrage
 
 Description: Initiates the arbitrage by swapping borrowed BUSD for WBNB in the liquidity pool.
 
